@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://gladishd.github.io/arvist-todo-list",
+  "homepage": "https://gladishd.github.io/dean-arvist-frontend-intern/",
   "eslintConfig": {
     "extends": [
       "react-app",
