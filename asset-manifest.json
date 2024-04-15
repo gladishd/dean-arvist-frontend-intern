@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c248bb2.css",
-    "main.js": "/static/js/main.61865820.js",
-    "static/js/453.3f020805.chunk.js": "/static/js/453.3f020805.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.1706e18e07365ae400c5db2284d9faa1.svg",
-    "index.html": "/index.html",
-    "main.2c248bb2.css.map": "/static/css/main.2c248bb2.css.map",
-    "main.61865820.js.map": "/static/js/main.61865820.js.map",
-    "453.3f020805.chunk.js.map": "/static/js/453.3f020805.chunk.js.map"
+    "main.css": "/arvist-todo-list/static/css/main.2c248bb2.css",
+    "main.js": "/arvist-todo-list/static/js/main.2fd17eb8.js",
+    "static/js/453.3f020805.chunk.js": "/arvist-todo-list/static/js/453.3f020805.chunk.js",
+    "static/media/logo.svg": "/arvist-todo-list/static/media/logo.1706e18e07365ae400c5db2284d9faa1.svg",
+    "index.html": "/arvist-todo-list/index.html",
+    "main.2c248bb2.css.map": "/arvist-todo-list/static/css/main.2c248bb2.css.map",
+    "main.2fd17eb8.js.map": "/arvist-todo-list/static/js/main.2fd17eb8.js.map",
+    "453.3f020805.chunk.js.map": "/arvist-todo-list/static/js/453.3f020805.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c248bb2.css",
-    "static/js/main.61865820.js"
+    "static/js/main.2fd17eb8.js"
   ]
 }
