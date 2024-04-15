@@ -15,6 +15,7 @@ function App() {
       return [];
     }
   });
+
   const [task, setTask] = useState('');
 
   useEffect(() => {
@@ -30,6 +31,7 @@ function App() {
   };
 
   const handleInputChange = (event) => {
+    console.log(event.target.value)
     setTask(event.target.value);
   };
 
